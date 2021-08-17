@@ -1,2 +1,2 @@
-# coursera-assignment2
-Web Dev week 2 assignment
+# coursera-test
+Web Dev test repo
